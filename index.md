@@ -17,7 +17,7 @@ Imagina tener un pequeño radio que, conectado a tu teléfono, te permite enviar
 
 ### ¡Empieza aquí!
 
-No necesitas ser un experto en electrónica. Hemos creado esta guía para que dar tus **primeros pasos** sea sencillo. Desde qué comprar hasta cómo configurar tu primer dispositivo, te acompañaremos en cada etapa.
+No necesitas ser un experto en electrónica. Hemos creado esta guía para que dar tus [**Primeros Pasos**](primeros-pasos.md) sea sencillo. Desde qué comprar hasta cómo configurar tu primer dispositivo, te acompañaremos en cada etapa.
 
 ---
 
