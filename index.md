@@ -1,4 +1,4 @@
-# ¡Bienvenido a Meshtastic México!
+# ¡Bienvenido a Meshtastic México (Esta página solo es una prueba de concepto)!
 
 ---
 
