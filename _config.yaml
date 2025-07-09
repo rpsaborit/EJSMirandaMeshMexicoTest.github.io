@@ -5,7 +5,7 @@ baseurl: "" # Deja vacío si tu sitio es username.github.io. Si es un subdirecto
 url: "https://EJSMirandaMeshMexicoTest.github.io" # Reemplaza con la URL de tu GitHub Pages
 
 # Configuración del tema
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minima
 
 # Plugins (esenciales para que el tema funcione bien en GitHub Pages)
 plugins:
