@@ -1,0 +1,32 @@
+# Configuración básica del sitio
+title: Meshtastic México
+description: Guía para principiantes de Meshtastic en México. Aprende qué es, cómo empezar y tutoriales esenciales.
+baseurl: "" # Deja vacío si tu sitio es username.github.io. Si es un subdirectorio, p.ej. /meshtastic-mx, ponlo aquí.
+url: "https://EJSMirandaMeshMexicoTest.github.io" # Reemplaza con la URL de tu GitHub Pages
+
+# Configuración del tema
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins (esenciales para que el tema funcione bien en GitHub Pages)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag # Para optimización de motores de búsqueda
+
+# Variables opcionales del tema Minimal
+google_analytics: # Tu ID de seguimiento de Google Analytics (ej: UA-XXXXXXXXX-Y) si lo tienes
+color-scheme: auto # Puedes elegir 'light', 'dark' o 'auto' para que se ajuste al sistema del usuario. 'auto' es buena opción.
+logo: # Puedes añadir la ruta a un logo (ej: /assets/img/logo.png). El logo aparecerá en la parte superior.
+
+# Navegación (para personalizar los enlaces en la parte superior/lateral si el tema lo permite)
+# El tema Minimal no tiene una barra de navegación integrada, pero puedes añadir enlaces manualmente en el layout.
+# Para temas más complejos, aquí definirías los enlaces del menú.
+
+# Exclusiones (archivos/carpetas que Jekyll debe ignorar al construir el sitio)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
