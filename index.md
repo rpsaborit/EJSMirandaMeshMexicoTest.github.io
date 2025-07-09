@@ -20,3 +20,27 @@ Imagina tener un pequeño radio que, conectado a tu teléfono, te permite enviar
 No necesitas ser un experto en electrónica. Hemos creado esta guía para que dar tus **primeros pasos** sea sencillo. Desde qué comprar hasta cómo configurar tu primer dispositivo, te acompañaremos en cada etapa.
 
 ---
+
+### Índice de la Guía:
+
+* [**Primeros Pasos**](primeros-pasos.md)
+    * ¿Qué necesitas para empezar?
+    * Preparando tu dispositivo (Flasheo del Firmware)
+    * Configuración inicial con la App Móvil
+* [**Tutoriales**](tutoriales.md)
+    * Configuración Avanzada
+    * Uso Básico
+    * Consejos y Trucos
+* [**Recursos**](recursos.md)
+    * Preguntas Frecuentes (FAQ)
+    * Glosario de términos
+    * Enlaces útiles
+    * Descargas
+* [**Comunidad**](comunidad.md)
+    * Únete a nuestro grupo
+    * Eventos y encuentros
+    * Contacto
+
+---
+
+Mantente al tanto de las **noticias y eventos** de nuestra comunidad. ¡Pronto anunciaremos nuestros próximos encuentros y proyectos!
