@@ -44,3 +44,11 @@ No necesitas ser un experto en electrónica. Hemos creado esta guía para que da
 ---
 
 Mantente al tanto de las **noticias y eventos** de nuestra comunidad. ¡Pronto anunciaremos nuestros próximos encuentros y proyectos!
+
+---
+
+El contenido de nuestro sitio web está licenciado bajo Creative Commons.
+
+Siéntete libre de usar el proyecto para tu sitio web en:<a href="https://github.com/EJSMirandaMeshMexicoTest"> Github</a>.
+
+Si te hemos inspirado y quieres formar parte de nuestra malla, por favor contactanos y envianos un mensaje en nuestro Grupo de Telegram<a href="https://t.me/meshtastic_mexico"> Meshtastic_Mexico</a>.
